@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooks-todo-kp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/hooks-todo-kp/static/js/main.10722e5c.chunk.js",
+    "main.js.map": "/hooks-todo-kp/static/js/main.10722e5c.chunk.js.map",
+    "runtime-main.js": "/hooks-todo-kp/static/js/runtime-main.b770b3ce.js",
+    "runtime-main.js.map": "/hooks-todo-kp/static/js/runtime-main.b770b3ce.js.map",
+    "static/js/2.55d8913f.chunk.js": "/hooks-todo-kp/static/js/2.55d8913f.chunk.js",
+    "static/js/2.55d8913f.chunk.js.map": "/hooks-todo-kp/static/js/2.55d8913f.chunk.js.map",
+    "static/js/3.23359697.chunk.js": "/hooks-todo-kp/static/js/3.23359697.chunk.js",
+    "static/js/3.23359697.chunk.js.map": "/hooks-todo-kp/static/js/3.23359697.chunk.js.map",
+    "index.html": "/hooks-todo-kp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/hooks-todo-kp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.55d8913f.chunk.js.LICENSE.txt": "/hooks-todo-kp/static/js/2.55d8913f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b770b3ce.js",
+    "static/js/2.55d8913f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.10722e5c.chunk.js"
+  ]
+}
